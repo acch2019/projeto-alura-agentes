@@ -1,5 +1,5 @@
 # projeto-alura-agentes
-# Projeto Alura: Análise de Currículos com Agentes de IA
+# Projeto Imersão IA Alura: Análise de Currículos com Agentes de IA
 
 Este projeto utiliza agentes de Inteligência Artificial e o Google Gemini para automatizar a análise de currículos, otimizando o processo de recrutamento.  
 Atualmente, trabalha com texto simples — o conteúdo do currículo deve ser copiado e colado na ferramenta. No entanto, trata-se de um projeto em expansão, com planos para suporte a diferentes formatos.
