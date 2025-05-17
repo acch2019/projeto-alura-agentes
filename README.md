@@ -90,7 +90,7 @@ Os agentes de IA são gerenciados por um framework moderno que garante:
 
 ## 📌 Status
 
-🔧 Em desenvolvimento contínuo — melhorias futuras podem incluir suporte a currículos em PDF, integração com ATS e interface gráfica aprimorada.
+🔧 Em desenvolvimento contínuo — melhorias futuras podem incluir suporte a currículos em PDF, integração com softwares de rastreamento de candidatos e interface gráfica aprimorada.
 
 ---
 
